@@ -6,12 +6,14 @@ Requirement
 install package yang dibutuhkan dengan cara:
 
 pip install -r requirements.txt
+
 Untuk requirement program ini bisa dilihat pada requirement.txt
 
 prepare data yang dibutuhkan, yaitu:
 
 phone.xlsx
 pesan.txt
+
 Running Programs
 Pastikan path user dan chrome driver sudah di set
 
